@@ -26,7 +26,7 @@ All three implementations share:
 - Combined and shuffled for training
 
 ### Action Space
-- **Modules**: `["CoT", "Predict"]` (or `["CoT", "Predict", "PoT"]` in PPO)
+- **Modules**: `["CoT", "Predict"]` (or `["CoT", "Predict"]` in PPO)
 - **Signatures**: 15 predefined input-output signatures like `"question -> answer"`, `"problem -> solution"`
 - **Pipeline Structure**: Module → Signature → Stop
 
