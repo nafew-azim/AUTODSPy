@@ -8,7 +8,9 @@ This repository contains three different reinforcement learning approaches for t
 
 All three methods train a language model (GPT-2) to learn which DSPy module and signature combinations work best for different types of questions. The model learns to construct pipelines like `["CoT", "question -> answer"]` that are then executed using DSPy.
 
-![AutoDSPy Framework](assets/Figure_2(F)-1.png)
+<p align="center">
+  <img src="assets/Figure_2 (F)-1.png" alt="AutoDSPy Framework" width="600"/>
+</p>
 
 
 ## Files
