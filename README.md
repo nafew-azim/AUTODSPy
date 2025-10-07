@@ -19,7 +19,6 @@ All three methods train a language model (GPT-2) to learn which DSPy module and 
 2. **`grpo_training.py`** - Group Relative Policy Optimization (GRPO)
 3. **`reinforce_training.py`** - REINFORCE with Baseline
 
----
 
 ## Common Components
 
@@ -54,7 +53,7 @@ All use a two-stage reward system:
 1. **Regex matching**: Extract answers from brackets `[answer]` or numeric values
 2. **LLM judge**: If regex fails, use LLM to score (0.0 to 1.0)
 
----
+
 
 ## Key Differences
 
@@ -80,7 +79,7 @@ train_ppo(num_episodes=20, clip_eps=0.2, epochs_per_batch=10, batch_size=10)
 3. Update policy and value head for multiple epochs
 4. Use clipped surrogate objective to prevent large updates
 
----
+
 
 ### 2. GRPO (Group Relative Policy Optimization)
 
@@ -128,8 +127,8 @@ train_rl(num_episodes=100, learning_rate=2e-5)
 5. Compute advantage: `reward - baseline`
 6. Policy gradient update
 
----
-Full Process Overview
+
+**Full Process Overview**
 
 <p align="center">
   <img src="assets/Figure_2 (F)-1.png" alt="AutoDSPy Framework" width="600"/>
