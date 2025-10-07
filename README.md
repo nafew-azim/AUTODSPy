@@ -297,3 +297,11 @@ RuntimeError: Error(s) in loading state_dict
 3. **Adjust Learning Rate**: If loss explodes, reduce LR; if no learning, increase LR
 4. **Save Frequently**: Models save automatically after training
 5. **Test Incrementally**: Test after every 50-100 episodes to track progress
+
+
+@inproceedings{nafew,
+    title={AutoDSPy: Automating Modular Prompt Design with Reinforcement Learning for Small and Large Language Models},
+    author={Alam, Nafew Azim Abrar Ur and Omar, Hasan Bin and Jami, Abdullah Mohammad Muntasir Adnan and Ahad, Jawad Ibn and Kabir, Muhammad Rafsan and Hossain, Md. Ismail and Rahman, Fuad and Amin, Mohammad Ruhul and Rahman, Shafin and Mohammed, Nabeel},
+    booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    year={2024}
+}
