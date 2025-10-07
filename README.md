@@ -102,7 +102,6 @@ train_grpo(num_episodes=200, learning_rate=2e-5, K=4)
 3. Calculate advantage: `reward - group_average`
 4. Single policy gradient update
 
----
 
 ### 3. REINFORCE with Baseline
 
@@ -181,7 +180,6 @@ htotal_time, htotal_correct = evaluate_module(
 )
 ```
 
----
 
 ## Step-by-Step Guide
 
@@ -255,7 +253,6 @@ policy_model.load_state_dict(torch.load("model_name.pt"))
 policy_model.eval()  # Set to evaluation mode
 ```
 
----
 
 ## Troubleshooting
 
@@ -297,7 +294,6 @@ RuntimeError: Error(s) in loading state_dict
 - Increase training episodes
 - Adjust learning rate (try 1e-5 to 5e-5)
 
----
 
 ## Tips for Best Results
 
