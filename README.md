@@ -129,6 +129,7 @@ train_rl(num_episodes=100, learning_rate=2e-5)
 6. Policy gradient update
 
 ---
+Full Process Overview
 
 <p align="center">
   <img src="assets/Figure_2 (F)-1.png" alt="AutoDSPy Framework" width="600"/>
