@@ -299,4 +299,25 @@ RuntimeError: Error(s) in loading state_dict
 5. **Test Incrementally**: Test after every 50-100 episodes to track progress
 
 ## Citations
+```
+@inproceedings{azim2024autodspy,
+  title     = {AutoDSPy: Automating Modular Prompt Design with Reinforcement Learning for Small and Large Language Models},
+  author    = {
+    Azim, Nafew and
+    {Ur Alam}, Abrar and
+    {Bin Omar}, Hasan and
+    {Adnan Jami}, Abdullah Mohammad Muntasir and
+    {Ibn Ahad}, Jawad and
+    Kabir, Muhammad Rafsan and
+    Hossain, Md. Ismail and
+    Rahman, Fuad and
+    Amin, Mohammad Ruhul and
+    Rahman, Shafin and
+    Mohammed, Nabeel
+  },
+  booktitle = {Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)},
+  year      = {2024},
+  doi       = {10.18653/v1/2024.emnlp-main.597}
+}
 
+```
