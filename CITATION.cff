@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following paper."
+title: "AutoDSPy: Automating Modular Prompt Design with Reinforcement Learning for Small and Large Language Models"
+authors:
+  - family-names: Azim
+    given-names: Nafew
+  - family-names: Alam
+    given-names: Abrar Ur
+  - family-names: Omar
+    given-names: Hasan Bin
+  - family-names: Adnan Jami
+    given-names: Abdullah Mohammad Muntasir
+  - family-names: Ibn Ahad
+    given-names: Jawad
+  - family-names: Kabir
+    given-names: Muhammad Rafsan
+  - family-names: Hossain
+    given-names: Md. Ismail
+  - family-names: Rahman
+    given-names: Fuad
+  - family-names: Amin
+    given-names: Mohammad Ruhul
+  - family-names: Rahman
+    given-names: Shafin
+  - family-names: Mohammed
+    given-names: Nabeel
+date-released: 2025-10-07
+version: 1.0.0
+doi: 10.18653/v1/2024.emnlp-main.597
+repository-code: "https://github.com/YourUsername/AutoDSPy"
+license: MIT
+preferred-citation:
+  type: article
+  title: "AutoDSPy: Automating Modular Prompt Design with Reinforcement Learning for Small and Large Language Models"
+  authors:
+    - family-names: Azim
+      given-names: Nafew
+    - family-names: Alam
+      given-names: Abrar Ur
+    - family-names: Omar
+      given-names: Hasan Bin
+    - family-names: Adnan Jami
+      given-names: Abdullah Mohammad Muntasir
+    - family-names: Ibn Ahad
+      given-names: Jawad
+    - family-names: Kabir
+      given-names: Muhammad Rafsan
+    - family-names: Hossain
+      given-names: Md. Ismail
+    - family-names: Rahman
+      given-names: Fuad
+    - family-names: Amin
+      given-names: Mohammad Ruhul
+    - family-names: Rahman
+      given-names: Shafin
+    - family-names: Mohammed
+      given-names: Nabeel
+  journal: "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+  year: 2024
+  publisher: "Association for Computational Linguistics"
+  doi: "10.18653/v1/2024.emnlp-main.597"
