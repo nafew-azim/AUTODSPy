@@ -305,7 +305,7 @@ RuntimeError: Error(s) in loading state_dict
 
 ## Citations
 ```
-@inproceedings{azim2024autodspy,
+@inproceedings{azim2025autodspy,
   title     = {AutoDSPy: Automating Modular Prompt Design with Reinforcement Learning for Small and Large Language Models},
   author    = {
     Azim, Nafew and
@@ -320,8 +320,8 @@ RuntimeError: Error(s) in loading state_dict
     Rahman, Shafin and
     Mohammed, Nabeel
   },
-  booktitle = {Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)},
-  year      = {2024},
+  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)},
+  year      = {2025},
   doi       = {10.18653/v1/2024.emnlp-main.597}
 }
 
